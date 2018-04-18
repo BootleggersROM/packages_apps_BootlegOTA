@@ -18,12 +18,32 @@
 <resources>
   <!-- App -->
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Tautan</string>
   <!-- ROM info -->
+  <string name="latest_version">Pembaruan tersedia!\nVersi terbaru: %1$s</string>
+  <string name="unknown">Tidak diketahui</string>
   <!-- Check update -->
+  <string name="check_update_title">Periksa pembaruan</string>
+  <string name="last_check_summary">Pengecekan terakhir: %1$s</string>
+  <string name="last_check_never">Tidak pernah</string>
+  <string name="check_update_failed">Gagal memeriksa pembaruan</string>
+  <string name="update_available">Pembaruan tersedia!</string>
+  <string name="no_update_available">Tidak ada pembaruan yang tersedia</string>
   <!-- Update interval -->
   <string name="interval_entry_disable">Dinonaktifkan</string>
+  <string name="interval_entry_1h">Setiap jam</string>
+  <string name="interval_entry_12h">Setiap 12 jam</string>
+  <string name="interval_entry_24h">Setiap 24 jam</string>
+  <string name="autoupdate_enabled">Pembaruan otomatis diaktifkan</string>
+  <string name="autoupdate_disabled">Pembaruan otomatis dinonaktifkan</string>
   <!-- Notification -->
   <!-- Dialog -->
+  <string name="dialog_message">Memeriksa pembaruan ROM, harap tunggu…</string>
   <!-- Toast -->
+  <string name="toast_message">Tidak ada peramban yang terpasang</string>
   <!-- Links -->
+  <string name="links_rom_title">ROM</string>
+  <string name="links_rom_summary">Unduh rilis terbaru untuk perangkat Anda</string>
+  <string name="links_donation_title">Donasi</string>
 </resources>
