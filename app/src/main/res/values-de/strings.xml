@@ -25,7 +25,7 @@
   <!-- ROM info -->
   <string name="latest_version">Update verfügbar! \nAktuellste Version: %1$s</string>
   <string name="unknown">Unbekannt</string>
-  <string name="system_uptodate">DasSystem ist up to date</string>
+  <string name="system_uptodate">Das System ist auf dem neuesten Stand</string>
   <!-- Check update -->
   <string name="check_update_title">Auf Updates prüfen</string>
   <string name="last_check_summary">Letzte Überprüfung: %1$s</string>

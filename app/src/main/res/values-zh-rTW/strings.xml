@@ -20,9 +20,12 @@
   <!-- Categories -->
   <!-- ROM info -->
   <!-- Check update -->
+  <string name="last_check_never">從不</string>
   <!-- Update interval -->
+  <string name="interval_entry_disable">已停用</string>
   <!-- Notification -->
   <!-- Dialog -->
   <!-- Toast -->
   <!-- Links -->
+  <string name="links_changelog_title">更新日誌</string>
 </resources>

@@ -17,12 +17,44 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Bootleggers ROM-frissítés</string>
+  <string name="app_title">Bootleggers ROM-frissítés</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Linkek</string>
   <!-- ROM info -->
+  <string name="latest_version">Frissítés elérhető! \nAz újabb verzió: %1$s</string>
+  <string name="unknown">Ismeretlen</string>
+  <string name="system_uptodate">Az Ön rendszere naprakész</string>
   <!-- Check update -->
+  <string name="check_update_title">Frissítések keresése</string>
+  <string name="last_check_summary">Az utolsó ellenőrzés: %1$s</string>
+  <string name="last_check_never">Soha</string>
+  <string name="check_update_failed">A frissítés-ellenőrzés sikertelen</string>
+  <string name="update_available">Frissítés érhető el!</string>
+  <string name="no_update_available">Nincs elérhető frissítés</string>
   <!-- Update interval -->
+  <string name="interval_title">Automatikus frissítési időköz</string>
+  <string name="interval_entry_disable">Letiltva</string>
+  <string name="interval_entry_1h">Óránként</string>
+  <string name="interval_entry_12h">12 óránként</string>
+  <string name="interval_entry_24h">24 óránként</string>
+  <string name="autoupdate_enabled">Az automatikus frissítés engedélyezve van</string>
+  <string name="autoupdate_disabled">Az automatikus frissítés le van tiltva</string>
   <!-- Notification -->
+  <string name="notification_title">Hééé, itt a friss OTA!</string>
+  <string name="notification_message">Új verzió érhető el!</string>
+  <string name="bootleg_channel">Bootleggers OTA-értesítések</string>
+  <string name="bootleg_channel_description">Érkezzen értesítés az új Bootleggers ROM-frissítésekről</string>
   <!-- Dialog -->
+  <string name="dialog_message">ROM-frissítések keresése, kis türelmet…</string>
   <!-- Toast -->
+  <string name="toast_message">Nincs böngésző telepítve</string>
   <!-- Links -->
+  <string name="links_rom_title">ROM</string>
+  <string name="links_rom_summary">Töltse le a készülékéhez való legfrissebb kiadást</string>
+  <string name="links_changelog_title">Változások listája</string>
+  <string name="links_changelog_summary">Nézze meg, milyen új hibák kerültek napvilágra</string>
+  <string name="links_donation_title">Adományozás</string>
+  <string name="links_donation_summary">Egy kis pénz a VoLTE javítására</string>
 </resources>

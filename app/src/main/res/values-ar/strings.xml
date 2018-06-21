@@ -17,12 +17,44 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">تحديثات نظام bootleggers</string>
+  <string name="app_title">تحديثات نظام bootleggers</string>
   <!-- Categories -->
+  <string name="ota_category">التحديث الهوائي</string>
+  <string name="links_category">الروابط</string>
   <!-- ROM info -->
+  <string name="latest_version">تحديث متوفر!\nاخر إصدار: %1$s</string>
+  <string name="unknown">غير معروف</string>
+  <string name="system_uptodate">نظامك محدث</string>
   <!-- Check update -->
+  <string name="check_update_title">التحقق من التحديثات</string>
+  <string name="last_check_summary">آخر فحص: %1$s</string>
+  <string name="last_check_never">ابداً</string>
+  <string name="check_update_failed">لا يمكن التحقق من التحديث</string>
+  <string name="update_available">تحديث متوفر!</string>
+  <string name="no_update_available">لا تتوفر تحديثات</string>
   <!-- Update interval -->
+  <string name="interval_title">الفاصل الزمني للتحديث التلقائي</string>
+  <string name="interval_entry_disable">معطل</string>
+  <string name="interval_entry_1h">كل ساعة</string>
+  <string name="interval_entry_12h">كل 12 ساعة</string>
+  <string name="interval_entry_24h">كل 24 ساعة</string>
+  <string name="autoupdate_enabled">تم تفعيل التحديث التلقائي</string>
+  <string name="autoupdate_disabled">تم ايقاف التحديث التلقائي</string>
   <!-- Notification -->
+  <string name="notification_title">مهلا، تحديث هوائي جديدة هنا!</string>
+  <string name="notification_message">يتوفر إصدار جديد!</string>
+  <string name="bootleg_channel">إشعارات التحديثات الهوائية</string>
+  <string name="bootleg_channel_description">إشعارات حول التحديثات الجديدة لنظام Bootleggers</string>
   <!-- Dialog -->
+  <string name="dialog_message">التحقق من وجود تحديثات، الرجاء الإنتظار…</string>
   <!-- Toast -->
+  <string name="toast_message">لا يوجد متصفح مًثبت</string>
   <!-- Links -->
+  <string name="links_rom_title">نظام</string>
+  <string name="links_rom_summary">تحميل الإصدار الأخير للجهاز الخاص بك</string>
+  <string name="links_changelog_title">سِجل التغييرات</string>
+  <string name="links_changelog_summary">شاهد Bugs الجديدة التي أضفناها</string>
+  <string name="links_donation_title">التبرع</string>
+  <string name="links_donation_summary">مبلغ النقود لإصلاح volte</string>
 </resources>
