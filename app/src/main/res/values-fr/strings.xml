@@ -17,13 +17,44 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Mises à jour de la ROM Bootleggers</string>
+  <string name="app_title">Mises à jour de la ROM Bootleggers</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Liens</string>
   <!-- ROM info -->
+  <string name="latest_version">Mise à jour disponible!\nDernière version: %1$s</string>
+  <string name="unknown">Inconnu</string>
+  <string name="system_uptodate">Votre système est à jour</string>
   <!-- Check update -->
+  <string name="check_update_title">Vérifier les mises à jour</string>
+  <string name="last_check_summary">Dernière vérification : %1$s</string>
+  <string name="last_check_never">Jamais</string>
+  <string name="check_update_failed">Impossible de vérifier la mise à jour</string>
+  <string name="update_available">Mise à jour disponible !</string>
+  <string name="no_update_available">Aucune mise à jour disponible</string>
   <!-- Update interval -->
+  <string name="interval_title">Intervalle de mise à jour automatique</string>
   <string name="interval_entry_disable">Désactiver</string>
+  <string name="interval_entry_1h">Toutes les heures</string>
+  <string name="interval_entry_12h">Toutes les 12 heures</string>
+  <string name="interval_entry_24h">Toutes les 24 heures</string>
+  <string name="autoupdate_enabled">Mise à jour automatique activée</string>
+  <string name="autoupdate_disabled">Mise à jour automatique désactivée</string>
   <!-- Notification -->
+  <string name="notification_title">Hey, un nouveau OTA est là !</string>
+  <string name="notification_message">Une nouvelle version est disponible !</string>
+  <string name="bootleg_channel">Notifications BootlegOTA</string>
+  <string name="bootleg_channel_description">Notifications à propos des nouvelles mises à jour de la ROM Bootleggers</string>
   <!-- Dialog -->
+  <string name="dialog_message">Recherche des mises à jour de la ROM, veuillez patienter…</string>
   <!-- Toast -->
+  <string name="toast_message">Aucun navigateur n\'est installé</string>
   <!-- Links -->
+  <string name="links_rom_title">ROM</string>
+  <string name="links_rom_summary">Télécharger la dernière version pour votre appareil</string>
+  <string name="links_changelog_title">Changelog</string>
+  <string name="links_changelog_summary">Voir les nouveaux bugs que nous avons ajouté</string>
+  <string name="links_donation_title">Faire un don</string>
+  <string name="links_donation_summary">Donnez un peu de fric pour réparer volte</string>
 </resources>

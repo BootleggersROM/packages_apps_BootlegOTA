@@ -17,12 +17,43 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Cập nhật Bootleggers</string>
+  <string name="app_title">Cập nhật Bootleggers</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Liên kết</string>
   <!-- ROM info -->
+  <string name="latest_version">Đã có bản cập nhật mới!\nPhiên bản mới nhất: %1$s</string>
+  <string name="unknown">Không rõ</string>
+  <string name="system_uptodate">Hệ thống đã được cập nhật</string>
   <!-- Check update -->
+  <string name="check_update_title">Kiểm tra cập nhật</string>
+  <string name="last_check_summary">Lần kiểm tra gần nhất: %1$s</string>
+  <string name="last_check_never">Không bao giờ</string>
+  <string name="check_update_failed">Không thể kiểm tra cập nhật</string>
+  <string name="update_available">Đã có bản cập nhật mới!</string>
+  <string name="no_update_available">Không có bản cập nhật</string>
   <!-- Update interval -->
+  <string name="interval_title">Khoảng thời gian tự động cập nhật</string>
+  <string name="interval_entry_1h">Mỗi giờ</string>
+  <string name="interval_entry_12h">Mỗi 12 giờ</string>
+  <string name="interval_entry_24h">Mỗi 24 giờ</string>
+  <string name="autoupdate_enabled">Tự động cập nhật đã được bật</string>
+  <string name="autoupdate_disabled">Tự động cập nhật đã tắt</string>
   <!-- Notification -->
+  <string name="notification_title">Này bạn, có bản cập nhật OTA mới này!</string>
+  <string name="notification_message">Một phiên bản mới đã có sẵn!</string>
+  <string name="bootleg_channel">Thông báo BootlegOTA</string>
+  <string name="bootleg_channel_description">Thông báo về các bản cập nhật Bootleggers mới</string>
   <!-- Dialog -->
+  <string name="dialog_message">Đang kiểm tra cập nhật, vui lòng chờ…</string>
   <!-- Toast -->
+  <string name="toast_message">Không có trình duyệt nào được cài đặt</string>
   <!-- Links -->
+  <string name="links_rom_title">ROM</string>
+  <string name="links_rom_summary">Tải xuống bản cập nhật mới nhất cho thiết bị của bạn</string>
+  <string name="links_changelog_title">Các thay đổi</string>
+  <string name="links_changelog_summary">Xem các thay đổi được chúng tôi thêm vào</string>
+  <string name="links_donation_title">Ủng hộ</string>
+  <string name="links_donation_summary">Ủng hộ tiền để sửa VoLTE</string>
 </resources>

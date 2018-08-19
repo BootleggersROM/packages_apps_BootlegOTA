@@ -17,12 +17,44 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Bootleggers ROM アップデート</string>
+  <string name="app_title">Bootleggers ROM アップデート</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">リンク</string>
   <!-- ROM info -->
+  <string name="latest_version">アップデート可能です！\n最新バージョン：%1$s</string>
+  <string name="unknown">不明</string>
+  <string name="system_uptodate">システムは最新の状態です</string>
   <!-- Check update -->
+  <string name="check_update_title">アップデートを確認</string>
+  <string name="last_check_summary">前回の更新確認：%1$s</string>
+  <string name="last_check_never">なし</string>
+  <string name="check_update_failed">アップデートを確認できませんでした</string>
+  <string name="update_available">アップデートがあります！</string>
+  <string name="no_update_available">利用可能なアップデートはありません</string>
   <!-- Update interval -->
+  <string name="interval_title">自動でアップデートを確認する間隔</string>
+  <string name="interval_entry_disable">無効</string>
+  <string name="interval_entry_1h">1時間ごと</string>
+  <string name="interval_entry_12h">12時間ごと</string>
+  <string name="interval_entry_24h">24時間ごと</string>
+  <string name="autoupdate_enabled">自動でのアップデートの確認は有効です</string>
+  <string name="autoupdate_disabled">自動でのアップデート確認は無効です</string>
   <!-- Notification -->
+  <string name="notification_title">やあ、新しいOTAがあるよ！</string>
+  <string name="notification_message">新しいバージョンが利用可能です！</string>
+  <string name="bootleg_channel">BootlegOTAの通知</string>
+  <string name="bootleg_channel_description">新しいBootleggersアップデートの通知</string>
   <!-- Dialog -->
+  <string name="dialog_message">ROMのアップデートを確認しています。 しばらくお待ち下さい...</string>
   <!-- Toast -->
+  <string name="toast_message">ブラウザーがインストールされていません</string>
   <!-- Links -->
+  <string name="links_rom_title">ROM</string>
+  <string name="links_rom_summary">お使いのデバイスの最新のリリースをダウンロードします。</string>
+  <string name="links_changelog_title">更新履歴</string>
+  <string name="links_changelog_summary">新しく追加したバグを参照してください</string>
+  <string name="links_donation_title">寄付</string>
+  <string name="links_donation_summary">VoLTEの修正のためにいくらかお金を下さい</string>
 </resources>
